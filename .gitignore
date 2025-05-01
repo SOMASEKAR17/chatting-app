@@ -1,0 +1,34 @@
+# Node.js - backend
+/backend/node_modules/
+/backend/.env
+/backend/dist/
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite + React - frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.env
+/frontend/.env.*.local
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# General
+*.local
+.env.local
+.env.*
+*.log
